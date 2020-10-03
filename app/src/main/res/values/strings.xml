@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizMcq</string>
+
+    <string name="txt_btn_play">Let\'s Play!</string>
+    <string name="txt_your_score">Your Scores</string>
+    <string name="txt_select_category">Select Category</string>
+    <string name="txt_score">Score</string>
+    <string name="txt_ok">Ok</string>
+    <string name="txt_score_achieved">You scored:</string>
+    <string name="txt_license">Open Source Licenses</string>
+
+    <!--Progress messages-->
+    <string name="message_loading_quiz">Loading Your Quiz</string>
+    <string name="message_no_network">No Internet Connection !!</string>
+</resources>
